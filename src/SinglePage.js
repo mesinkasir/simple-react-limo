@@ -1,5 +1,5 @@
 import React from 'react';
-import ArticleContent from './ArticleContent';
+import ArticleContent from './data/ArticleContent';
 import { Helmet } from 'react-helmet';
 const SinglePage = ({ match }) => {
   const name = match.params.name;
@@ -39,8 +39,8 @@ const SinglePage = ({ match }) => {
       <div className="p-1">
         <div className="border p-1">
           <img
-            className="img-fluid card"
-            alt="{article.title}"
+            className="img-fluid"
+            alt={article.title}
             src={article.img}
           />
           <main className="card-content p-3 p-md-5">
@@ -49,7 +49,7 @@ const SinglePage = ({ match }) => {
             </h1>
             <h3>{article.desc}</h3>
             <p className="date">
-              <a href={article.authorlink}>{article.author}</a> ⏰{' '}
+              by <a href={article.authorlink}>{article.author}</a> on{' '}
               {article.date}
             </p>
             <p className="dotted" />

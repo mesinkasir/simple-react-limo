@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://cuteblog.vercel.app/sitemap.xml
+Sitemap: https://limousine.pages.dev/sitemap.xml
