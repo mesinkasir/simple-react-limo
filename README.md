@@ -1,6 +1,6 @@
 # Simple React Blog
 
-react simple blogger with helmet SEO
+react simple blogger with react helmet SEO
 
 Documentation : [https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html →](https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html)
 
