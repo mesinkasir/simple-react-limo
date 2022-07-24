@@ -15,6 +15,8 @@ const datas = [
     menu3: 'Create Website',
     menu3url:
       'https://www.fiverr.com/creativitas/create-your-website-with-new-technology',
+    download: 'Download →',
+    url: 'https://github.com/mesinkasir/simple-react-limo/archive/refs/heads/main.zip',
   },
 ];
 

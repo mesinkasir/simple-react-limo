@@ -38,11 +38,7 @@ const SinglePage = ({ match }) => {
       </Helmet>
       <div className="p-1">
         <div className="border p-1">
-          <img
-            className="img-fluid"
-            alt={article.title}
-            src={article.img}
-          />
+          <img className="img-fluid" alt={article.title} src={article.img} />
           <main className="card-content p-3 p-md-5">
             <h1>
               <a href="/"> {article.title}</a> <span></span>

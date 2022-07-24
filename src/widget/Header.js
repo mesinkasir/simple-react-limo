@@ -28,7 +28,13 @@ const Header = () => (
         <div className="col-md-6">
           <h2>{Data.description}</h2>
           <p>
-            <a href="https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html">
+            <a href={Data.url} class="text-light btn btn-dark">
+              {Data.download}
+            </a>
+            <a
+              class="btn btn-outline-dark"
+              href="https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html"
+            >
               {Data.intro}
             </a>
           </p>
