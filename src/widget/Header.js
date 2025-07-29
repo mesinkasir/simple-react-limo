@@ -38,9 +38,7 @@ const Header = () => (
               {Data.intro}
             </a>
           </p>
-                <h3>GrandLimousine Atlanta</h3>
-                <p>Grand Limousine Atlanta offers top-tier luxury limousine and car service in Atlanta, perfect for business travel, airport transfers, special events, and more. <a href="https://www.grandlimoatlanta.com">Visit Site →</a></p>
-        </div>
+     </div>
       </div>
     ))}
   </div>
