@@ -2,8 +2,6 @@
 
 react simple blogger with `react helmet SEO`
 
-Documentation : [https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html →](https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html)
-
 Live Demo : [https://limousine.pages.dev](https://limousine.pages.dev/)
 
 Free Version Svelte kit : [https://blackcarservice.vercel.app](https://blackcarservice.vercel.app/)
